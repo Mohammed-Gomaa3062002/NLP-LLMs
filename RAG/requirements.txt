@@ -1,0 +1,13 @@
+langchain
+langchain_community
+ollama
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+chromadb
+transformers
+python-dotenv
+tiktoken
+faiss-cpu
+accelerate
+gradio
